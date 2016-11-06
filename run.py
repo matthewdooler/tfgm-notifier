@@ -32,7 +32,7 @@ while True:
 	print trams
 	print ""
 
-	interesting_destinations = ["Piccadilly", "See Tram Front"]
+	interesting_destinations = ["Piccadilly", "See Tram Front", "Ashton-under-Lyne"]
 
 	interesting_trams = []
 	for tram in trams:
